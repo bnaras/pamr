@@ -1,0 +1,13 @@
+Package: pamr
+Title: Pam: Prediction Analysis for Microarrays
+Version: 1.57
+Authors@R: c(
+	     person("Trevor", "Hastie", role=c("aut"), email = "hastie@stanford.edu"),
+	     person("Rob", "Tibshirani", role=c("aut"), email = "tibs@stanford.edu"),
+	     person("Balasubramanian", "Narasimhan", role=c("aut", "cre"), email = "naras@stanford.edu"),
+	     person("Gilbert","Chu", role=c("aut")))
+Description: Some functions for sample classification in microarrays.
+Depends: R (>= 2.10), cluster, survival
+License: GPL-2
+Date: 2024-06-28
+
